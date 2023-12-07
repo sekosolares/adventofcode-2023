@@ -8,19 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ajsol\\.nuget\\packages\\": {}
+    "C:\\Users\\olgt1\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\projects\\AdventOfCode\\2023\\CSharp\\Day1\\Day1.csproj",
+      "projectUniqueName": "C:\\Users\\olgt1\\Documents\\Coding Oscar - 2023\\D1\\CSharp\\Day1\\Day1.csproj",
       "projectName": "Day1",
-      "projectPath": "C:\\projects\\AdventOfCode\\2023\\CSharp\\Day1\\Day1.csproj",
-      "packagesPath": "C:\\Users\\ajsol\\.nuget\\packages\\",
-      "outputPath": "C:\\projects\\AdventOfCode\\2023\\CSharp\\Day1\\obj\\",
+      "projectPath": "C:\\Users\\olgt1\\Documents\\Coding Oscar - 2023\\D1\\CSharp\\Day1\\Day1.csproj",
+      "packagesPath": "C:\\Users\\olgt1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\olgt1\\Documents\\Coding Oscar - 2023\\D1\\CSharp\\Day1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\ajsol\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\olgt1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
