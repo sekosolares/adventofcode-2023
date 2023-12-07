@@ -1,0 +1,15 @@
+C:\projects\AdventOfCode\2023\CSharp\Day1\bin\Debug\net7.0\Day1.exe
+C:\projects\AdventOfCode\2023\CSharp\Day1\bin\Debug\net7.0\Day1.deps.json
+C:\projects\AdventOfCode\2023\CSharp\Day1\bin\Debug\net7.0\Day1.runtimeconfig.json
+C:\projects\AdventOfCode\2023\CSharp\Day1\bin\Debug\net7.0\Day1.dll
+C:\projects\AdventOfCode\2023\CSharp\Day1\bin\Debug\net7.0\Day1.pdb
+C:\projects\AdventOfCode\2023\CSharp\Day1\obj\Debug\net7.0\Day1.csproj.AssemblyReference.cache
+C:\projects\AdventOfCode\2023\CSharp\Day1\obj\Debug\net7.0\Day1.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\AdventOfCode\2023\CSharp\Day1\obj\Debug\net7.0\Day1.AssemblyInfoInputs.cache
+C:\projects\AdventOfCode\2023\CSharp\Day1\obj\Debug\net7.0\Day1.AssemblyInfo.cs
+C:\projects\AdventOfCode\2023\CSharp\Day1\obj\Debug\net7.0\Day1.csproj.CoreCompileInputs.cache
+C:\projects\AdventOfCode\2023\CSharp\Day1\obj\Debug\net7.0\Day1.dll
+C:\projects\AdventOfCode\2023\CSharp\Day1\obj\Debug\net7.0\refint\Day1.dll
+C:\projects\AdventOfCode\2023\CSharp\Day1\obj\Debug\net7.0\Day1.pdb
+C:\projects\AdventOfCode\2023\CSharp\Day1\obj\Debug\net7.0\Day1.genruntimeconfig.cache
+C:\projects\AdventOfCode\2023\CSharp\Day1\obj\Debug\net7.0\ref\Day1.dll
