@@ -15,7 +15,7 @@ internal class Program {
 
         foreach (KeyValuePair<string, string> kv in NUMS)
         {
-            // kv.Value between kv.Key, so it still completes spelled numbers
+            // Put kv.Value between kv.Key, so it still completes spelled numbers
             // before and after it. Since the goal is just having it on the
             // right position, then we get the real first and last number.
             newLine = newLine.Replace(kv.Key, $"{kv.Key}{kv.Value}{kv.Key}");
