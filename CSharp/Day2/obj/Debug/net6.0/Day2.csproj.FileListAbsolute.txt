@@ -1,0 +1,15 @@
+C:\projects\AdventOfCode\2023\CSharp\Day2\bin\Debug\net6.0\Day2.exe
+C:\projects\AdventOfCode\2023\CSharp\Day2\bin\Debug\net6.0\Day2.deps.json
+C:\projects\AdventOfCode\2023\CSharp\Day2\bin\Debug\net6.0\Day2.runtimeconfig.json
+C:\projects\AdventOfCode\2023\CSharp\Day2\bin\Debug\net6.0\Day2.dll
+C:\projects\AdventOfCode\2023\CSharp\Day2\bin\Debug\net6.0\Day2.pdb
+C:\projects\AdventOfCode\2023\CSharp\Day2\obj\Debug\net6.0\Day2.csproj.AssemblyReference.cache
+C:\projects\AdventOfCode\2023\CSharp\Day2\obj\Debug\net6.0\Day2.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\AdventOfCode\2023\CSharp\Day2\obj\Debug\net6.0\Day2.AssemblyInfoInputs.cache
+C:\projects\AdventOfCode\2023\CSharp\Day2\obj\Debug\net6.0\Day2.AssemblyInfo.cs
+C:\projects\AdventOfCode\2023\CSharp\Day2\obj\Debug\net6.0\Day2.csproj.CoreCompileInputs.cache
+C:\projects\AdventOfCode\2023\CSharp\Day2\obj\Debug\net6.0\Day2.dll
+C:\projects\AdventOfCode\2023\CSharp\Day2\obj\Debug\net6.0\refint\Day2.dll
+C:\projects\AdventOfCode\2023\CSharp\Day2\obj\Debug\net6.0\Day2.pdb
+C:\projects\AdventOfCode\2023\CSharp\Day2\obj\Debug\net6.0\Day2.genruntimeconfig.cache
+C:\projects\AdventOfCode\2023\CSharp\Day2\obj\Debug\net6.0\ref\Day2.dll
